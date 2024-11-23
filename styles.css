@@ -708,6 +708,9 @@ textarea.input {
   .form {
     grid-template-columns: 1fr;
   }
+    .p1{
+        display: none;
+    }
 
   .contact-info:before {
     bottom: initial;
